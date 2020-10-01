@@ -1,0 +1,11 @@
+[0921/031456.293:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0921/031951.479:ERROR:registration_protocol_win.cc(103)] CreateFile: The system cannot find the file specified. (0x2)
+[0921/033730.188:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0922/050422.616:ERROR:registration_protocol_win.cc(103)] CreateFile: The system cannot find the file specified. (0x2)
+[0924/052134.475:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0924/054752.687:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0925/050811.117:ERROR:registration_protocol_win.cc(103)] CreateFile: The system cannot find the file specified. (0x2)
+[0925/053937.679:ERROR:registration_protocol_win.cc(103)] CreateFile: The system cannot find the file specified. (0x2)
+[0925/201936.328:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0926/035109.156:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0927/011345.969:ERROR:crash_report_database_win.cc(428)] unexpected header
